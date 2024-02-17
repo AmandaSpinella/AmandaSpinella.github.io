@@ -167,3 +167,9 @@
     margin-bottom: 10px;
   }
 }
+
+@media (max-width: 400px) {
+  .formacao {
+    grid-template-columns: 1fr;
+  } 
+  }
