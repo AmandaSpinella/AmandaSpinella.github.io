@@ -167,9 +167,3 @@
     margin-bottom: 10px;
   }
 }
-
-@media (max-width: 400px) {
-  .subtitulo {
-    grid-template-columns: 1fr;
-  } 
-  }
